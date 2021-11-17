@@ -5,7 +5,7 @@ Note :- Before using this program,
 
 Please install phonenumber Module 
 
-Hint Simply type  <i> pip install phonenumbers </i>
+Hint Simply type  <i> pip install phonenumbers </i> in cmd prompt.
 
 
 <h1> Enjoy The Code </h1>
